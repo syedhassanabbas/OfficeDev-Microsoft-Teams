@@ -1,3 +1,5 @@
+[![Board Status](https://dev.azure.com/HassanAbbasShahSoftLTD/a834fe91-135d-4d97-888f-abc66fa2237a/7d6294ad-81a4-4d95-a247-6d751ffa0e03/_apis/work/boardbadge/621dff7a-2425-4d14-b5bc-fb8b537ba3fc)](https://dev.azure.com/HassanAbbasShahSoftLTD/a834fe91-135d-4d97-888f-abc66fa2237a/_boards/board/t/7d6294ad-81a4-4d95-a247-6d751ffa0e03/Microsoft.RequirementCategory/)
+
 # Steps to run locally
 
 ## Prerequisites
